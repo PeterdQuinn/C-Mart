@@ -1,4 +1,4 @@
-# C-mart/Exchange##
+Redux Store
 
 State: Redux Store
 
